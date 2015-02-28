@@ -1,7 +1,12 @@
-		body{
-			font-family: Georgia, serif;
-			background-color: #000;
-		}
-		h1{
-			color: #fff;
-		}
+body{
+	font-family: Georgia, serif;
+	background-color: #000;
+}
+h1{
+	color: #fff;
+}
+
+.gist .gist-file{
+	margin-left: 20px;
+	margin-right: 20px;
+}
